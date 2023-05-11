@@ -1,4 +1,5 @@
 body {
     background-color: black;
     background-clip: border-box;
+    align-self: main;
 }
