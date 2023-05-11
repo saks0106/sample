@@ -2,4 +2,7 @@ body {
     background-color: black;
     background-clip: border-box;
     align-self: main;
+    background-position: 0%;
+    align-self: slave;
+
 }
